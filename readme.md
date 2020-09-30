@@ -2,6 +2,7 @@
 
 - github的地址：https://github.com/lx1229/sd_1801_4th_group
 - gitee的地址：https://gitee.com/lx201418/sd_1801_4th_group
+- :innocent:推荐使用gitee查看
 
 -----
 
