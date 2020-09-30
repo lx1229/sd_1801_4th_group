@@ -1,5 +1,8 @@
 # 软件1801软件工程实践第1小组开发仓库
 
+- github的地址：https://github.com/lx1229/sd_1801_4th_group
+- gitee的地址：https://gitee.com/lx201418/sd_1801_4th_group
+
 ## 1. 首先将仓库拉到本地，然后开始开发（本地要确保安装git）
 
 ==操作步骤==
