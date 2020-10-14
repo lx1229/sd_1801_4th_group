@@ -97,6 +97,10 @@
 # 补充B:  相关链接及成果物下载
 - [作业要求及说明](https://www.notion.so/050256d18e7a4dbda8e6aef8ad90be5e)
 
+- 学习笔记
+
+  > - [Axure的入门使用](https://blog.csdn.net/Roben_/article/details/109064947)
+
 - 成果物下载
 
   > - 产品设计初稿效果图：
