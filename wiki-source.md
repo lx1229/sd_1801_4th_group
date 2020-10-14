@@ -100,6 +100,13 @@
 - 学习笔记
 
   > - [Axure的入门使用](https://blog.csdn.net/Roben_/article/details/109064947)
+  > - [Axure的使用指南](https://www.axure.com.cn/axure/course/)
+  > - [Idea及Webstorm的安装激活](https://blog.csdn.net/weixin_43408595/article/details/105534958)
+
+- 参考资料
+
+  > - [大型网站架构设计](https://www.baidu.com/link?url=qMFjfjL4NtWKXaMNds1WC5vwVIS7xlqY9UgCB0AilZGBfamwNsui_ffXc06Q07TaxHFYOTxe-20wYECx_Kxa4_3BrREBPQcUpHXw7b1dbka&wd=&eqid=9714b1af0000e24c000000055f864e4a)
+  > - 书籍：大型网站技术架构(李智慧)
 
 - 成果物下载
 
